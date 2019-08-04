@@ -45,7 +45,7 @@ We created hummingbot to promote **decentralized market-making**: enabling membe
 
 ### Learn more about Hummingbot
 
-- [Humminbot website](https://hummingbot.io)
+- [Hummingbot website](https://hummingbot.io)
 - [Documentation](https://docs.hummingbot.io)
 - [Read our blog](https://www.hummingbot.io/blog)
 - [Whitepaper](https://hummingbot.io/whitepaper.pdf)
